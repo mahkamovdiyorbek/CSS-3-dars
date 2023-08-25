@@ -1,0 +1,87 @@
+body{
+    background-color: yellow;
+}
+
+.block{
+    background-color: white;
+    width: 1350px;
+    height: 700px;
+    margin: 200px auto;
+
+}
+.solid{
+    border: black solid;
+    width: 300px;
+    height: 300px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.dashed{
+    border: black dashed;
+    width: 300px;
+    height: 300px;
+    margin-top: -315px; margin-left: 350px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.dotted{
+    border: black dotted;
+    width: 300px;
+    height: 300px;
+    margin-top: -315px; margin-left: 700px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.double{
+    border: black double;
+    width: 300px;
+    height: 300px;
+    margin-top: -315px; margin-left: 1050px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.inset{
+    border: grey inset;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 315px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.outset{
+    border: grey outset;
+    width: 300px;
+    height: 300px;
+    margin-top: -615px; margin-left: 350px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.groove{
+    border: grey outset;
+    width: 300px;
+    height: 300px;
+    margin-bottom: -600px; margin-top: -315px; margin-left: 700px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+.ridge{
+    border: grey ridge;
+    width: 300px;
+    height: 300px;
+    margin-top: 300px; margin-bottom: 300px; margin-left: 1050px;
+    padding: 125px 125px 125px 125px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
